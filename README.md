@@ -8,6 +8,6 @@
 ### React skills used in this app
 
 - useState() and useEffect() hooks were used to maintain state between player's moves, to decide the winner, to keep track of the score etc.
-- Refactored the code into 3 separate components from the App.js which gave opportunity learn about how to move data between components using props and state - not only for variables but also functions.
-- Parent and child components data sharing was a good challenge. Learnt the importance of callback function, especially when to call a function with paranthesis and without.
+- Learnt how to move data between components using props and state - not only for variables but also FUNCTIONS.
+- Parent and child components data sharing was a good challenge. Learnt the importance of callback function, especially when to call a function with () and without.
 
